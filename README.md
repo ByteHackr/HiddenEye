@@ -23,7 +23,7 @@
 2) USAMA ABDUL SATTAR (https://github.com/usama7628674)
 3) sTiKyt (https://github.com/sTiKyt)
 4) UNDEADSEC (https://github.com/UndeadSec)
-5) ByteHacker(https://github.com/ByteHack)
+5) ByteHackr (https://github.com/ByteHackr)
 6) Micrafast (https://github.com/Micrafast)
 7) Moltivie (https://github.com/Moltivie)
 8) endbehavi0r (https://github.com/endbehavi0r)
